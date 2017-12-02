@@ -1,3 +1,4 @@
-# RedditScraper-for-UIUC-schedule-megathread
-In order to view this notebook, you must install the dependencies: PRAW , pandas and iPython.  
-I used PRAW and pandas in order to scrape data from the spring 2017 schedule megathread from the UIUC subreddit, and visualised it in order to make interesting observations.
+# Basic overview of this notebook:
+I used PRAW, a reddit wrapper class, in order to scrape data from the spring 2017 schedule megathread from the UIUC subreddit, and then visualised it using pandas in order to make interesting observations.
+# Vision for the project:
+This is still a project in its infancy; the master plan is to make a website that can visualise data on any subreddit on demand at any time.
